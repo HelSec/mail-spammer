@@ -1,0 +1,6 @@
+#Ignore config file containing passwords etc.
+config.ini
+swagorder.csv
+spammer.log
+credentials.json
+token.pickle
